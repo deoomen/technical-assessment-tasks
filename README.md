@@ -1,6 +1,6 @@
 # Technical Assessment Tasks
 
-This repository contains two technical assessment tasks for frontend developers focusing on video processing, ML integration, and interactive visualization.
+This repository contains two technical assessment tasks for frontend developers focusing on voice recognition, video processing, ML integration, and interactive visualization.
 
 ## Tasks Overview
 
@@ -9,10 +9,12 @@ This repository contains two technical assessment tasks for frontend developers 
 
 ## Getting Started
 
-1. Fork this repository
-2. Review the task descriptions in the `tasks` directory
-3. Follow setup instructions in each task's documentation
-4. Submit your solution as described in the submission guidelines
+1. **Fork** this repository
+2. **Review** the task descriptions in the `tasks` directory
+3. Select one of the tasks for **complete MVP development**
+4. For the other - create complete **documentation of your idea of the implementation**
+6. Follow **setup instructions** in each task's documentation
+7. Submit your solution as described in the **submission guidelines**
 
 ## Evaluation Criteria
 
@@ -25,7 +27,7 @@ Detailed evaluation criteria are provided in each task description. Generally, w
 
 ## Questions?
 
-If you have any questions about the tasks, please open an issue in this repository.
+If you have any questions about the tasks, please open an issue in this repository or e-mail us.
 
 ## License
 
