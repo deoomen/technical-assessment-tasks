@@ -1,6 +1,6 @@
 # Technical Assessment Tasks
 
-This repository contains two technical assessment tasks for frontend developers focusing on voice recognition, video processing, ML integration, and interactive visualization.
+This repository contains two technical assessment tasks for developers focusing on voice recognition, video processing, ML integration, and interactive visualization.
 
 ## Tasks Overview
 
