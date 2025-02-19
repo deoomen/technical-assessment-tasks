@@ -1,34 +1,86 @@
-# Technical Assessment Tasks
+Technical Assessment Tasks
+This repository contains two technical assessment tasks focusing on rapid prototyping and agentic coding skills. The tasks are designed to evaluate your approach to problem-solving and ability to quickly create functional prototypes.
 
-This repository contains two technical assessment tasks for developers focusing on voice recognition, video processing, ML integration, and interactive visualization.
+🎯 Key Points
 
-## Tasks Overview
+Focus on Rapid Prototyping: These tasks are NOT about building production-ready features. We want to see your approach to quick, efficient problem-solving.
+Time Expectation: 3-4 hours total
+Evaluation Priority: Problem-solving approach > Code completeness
+Tool Freedom: Use any libraries/tools you prefer - the end result matters most
+💡 What We're Looking For
 
-1. [Smart Nature Observer](./tasks/task-1.md) - Video processing and segmentation task
-2. [Smart Voice Notes Organizer](./tasks/task-2.md) - Audio processing and organization task
+Smart Trade-offs:
 
-## Getting Started
+Choose what to implement vs what to mock
+Focus on core functionality over perfect code
+Document your decisions
+Technical Skills:
 
-1. **Fork** this repository
-2. **Review** the task descriptions in the `tasks` directory
-3. Select one of the tasks for **complete MVP development**
-4. For the other - create complete **documentation of your idea of the implementation**
-6. Follow **setup instructions** in each task's documentation
-7. Submit your solution as described in the **submission guidelines**
+Basic implementation of key features
+Clean, readable code structure
+Understanding of performance considerations
+Problem Solving:
 
-## Evaluation Criteria
+How you approach complex requirements
+Which shortcuts you take (and why)
+How you document your thought process
+🚀 Tasks Overview
 
-Detailed evaluation criteria are provided in each task description. Generally, we look for:
+Smart Nature Observer
 
-- Code quality and organization
-- Technical implementation
-- User experience
-- Documentation
+Video processing prototype
+Real-time analysis simulation
+Basic UI for interaction
+Smart Voice Notes Organizer
 
-## Questions?
+Audio processing prototype
+Text analysis simulation
+Simple organization interface
+📝 Getting Started
 
-If you have any questions about the tasks, please open an issue in this repository or e-mail us.
+Choose Your Focus:
 
-## License
+Pick the most interesting aspects to implement
+Mock or simulate complex features
+Document what you would do with more time
+Quick Setup:
+
+Fork this repository
+Use provided example code as starting point
+Start with basic functionality
+Submission:
+
+Working prototype (even if limited in scope)
+Documentation of your approach
+Notes about trade-offs made
+⚡ Example Approach
+
+A good prototype might include:
+
+Basic UI skeleton
+Simulated ML processing
+One or two core features working
+Clear documentation of what's mocked/simulated
+Notes about how you'd expand it in production
+❓ Questions?
+
+Open an issue for technical questions
+Contact team@libraxis.dev for scope clarification
+We're happy to discuss your approach!
+🎓 Evaluation Criteria
+
+We value:
+
+Clean, maintainable code
+Smart architectural decisions
+Clear documentation of trade-offs
+Working prototype (even if limited)
+We don't expect:
+
+Production-ready code
+Full feature implementation
+Perfect error handling
+Complete test coverage
+📖 License
 
 MIT
