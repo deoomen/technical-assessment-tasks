@@ -1,10 +1,10 @@
-```markdown
+
 # Detailed Installation Instructions
 
 This guide explains the new project structure, where initialization is split into three scripts:
 - **model_init.sh** – downloads, compiles, and installs the Whisper model (and builds whisper.cpp),
 - **server_init.sh** – installs backend dependencies and starts the server,
-- **frontend_init.sh** – (optional) installs dependencies and starts the frontend.
+~~- **frontend_init.sh** – (optional) installs dependencies and starts the frontend.~~
 
 The guide also uses **nvm** to manage Node.js 18 (instead of a global installation).
 
