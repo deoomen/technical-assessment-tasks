@@ -1,5 +1,6 @@
-**[task clarifying update]**
-**[committed Feb, the 19th 2025]**
+> **[task clarifying update]** \
+> **[committed Feb, the 19th, 2025]** \
+> **[Feb, the 20th, 2025 whisper nodejs server added as an example or base for your frontend implementation project - 4 hours of coding with AI agents and MCP tools]**
 
 # Technical Assessment Tasks
 
