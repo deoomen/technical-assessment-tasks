@@ -16,7 +16,7 @@ This guide explains the new project structure, where initialization is split int
 sudo apt update
 sudo apt install -y build-essential cmake git ffmpeg curl
 
-# Install NVM (Node Version Manager) - you can install latest
+# Install NVM (Node Version Manager)
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 source ~/.bashrc
 
@@ -24,7 +24,7 @@ source ~/.bashrc
 nvm --version
 
 # Install and use Node.js using brew or with nvm:
-nvm install
+brew install node
 
 # Install pnpm
 curl -fsSL https://get.pnpm.io/install.sh | sh -
@@ -39,22 +39,19 @@ source ~/.bashrc
 # Basic tools
 brew install cmake git ffmpeg
 
-# Install NVM (Node Version Manager)
-brew install nvm
-# Add these lines to your ~/.zshrc or ~/.bashrc:
-echo "export NVM_DIR=\"$HOME/.nvm\"" >> ~/.zshrc
-echo "[ -s \"/usr/local/opt/nvm/nvm.sh\" ] && . \"/usr/local/opt/nvm/nvm.sh\"" >> ~/.zshrc
-source ~/.zshrc
 
-# Install and use Node.js with brew or nvm:
-nvm install
+# Install NVM (Node Version Manager)
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+source ~/.bashrc
+
+# Install and use Node.js with brew:
+brew install node
 ```
 
 
-~~```bash
-nvm use 18   # no longer required after switching from nodejs-whisper to 
-~~nvm use   # compiled binary whisper.cpp with ggml model 
-~~```
+~~```bash~~
+~~nvm use 18~~   `# no longer required after switching from nodejs-whisper`
+~~nvm use~~   `# to compiled binary (whisper.cpp with ggml model)`
 
 Install pnpm
 
